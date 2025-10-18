@@ -1,0 +1,3 @@
+model\CurriculumVitae.class
+model\CurriculumVitae$CurriculumVitaeBuilder.class
+test\CvTest.class
