@@ -49,6 +49,9 @@ public class CvTest {
 		System.out.println(">> AGE: \t\t" + myCv.getAge());
 		System.out.println(">> ADDRESS: \t\t" + myCv.getAddress());
 		System.out.println(">> Email: \t\t" + myCv.getEmail());
+		System.out.println(">> Phone: \t\t" + "+91 1234567832");
+        System.out.println(">> SUMMARY: \t\t" + "A QA Tester with 1.6 years of experience in Manual Testing and Basic Automation.");
+        System.out.println(">> SKILLS: \t\t" + "Java, Selenium, Maven, TestNG, Manual Testing");
 		System.out.println("----------------------------------------------------\n");
 	}
 	
